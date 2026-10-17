@@ -1,0 +1,8 @@
+"product_name","option_name","option_type","customized_order_lines","affected_units","customization_sales"
+Vegetable Pizza,Extra cheese,ADD,9,10,15.00
+Spicy Pizza,Extra cheese,ADD,9,10,15.00
+Cheese Pizza,No cheese,REMOVE,1,1,0.00
+Pepperoni Pizza,No cheese,REMOVE,1,1,0.00
+Vegetable Pizza,No cheese,REMOVE,1,1,0.00
+Chicken Pizza,No cheese,REMOVE,1,1,0.00
+Meat Pizza,No cheese,REMOVE,1,1,0.00

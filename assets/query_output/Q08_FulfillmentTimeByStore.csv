@@ -1,0 +1,7 @@
+"store_name","fulfillment_type","completed_unscheduled_orders","avg_minutes","max_minutes"
+Demo Provo,CARRYOUT,8,33.75,36.00
+Demo Murray,DELIVERY,9,33.33,36.00
+Demo Salt Lake City,DELIVERY,10,32.80,36.00
+Demo Salt Lake City,CARRYOUT,8,32.75,36.00
+Demo Provo,DELIVERY,10,32.70,36.00
+Demo Murray,CARRYOUT,8,32.13,35.00

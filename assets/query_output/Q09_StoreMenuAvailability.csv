@@ -1,0 +1,55 @@
+"store_name","category_name","product_name","size","crust_type","base_price","store_price","is_available"
+Demo Salt Lake City,Pizza,Cheese Pizza,MEDIUM,HAND_TOSSED,10.50,10.50,true
+Demo Salt Lake City,Pizza,Cheese Pizza,LARGE,THIN,13.50,14.50,true
+Demo Salt Lake City,Pizza,Pepperoni Pizza,MEDIUM,HAND_TOSSED,11.00,11.00,true
+Demo Salt Lake City,Pizza,Pepperoni Pizza,LARGE,THIN,14.00,14.00,true
+Demo Salt Lake City,Pizza,Vegetable Pizza,MEDIUM,HAND_TOSSED,11.50,11.50,true
+Demo Salt Lake City,Pizza,Vegetable Pizza,LARGE,THIN,14.50,14.50,true
+Demo Salt Lake City,Pizza,Chicken Pizza,MEDIUM,HAND_TOSSED,12.00,12.00,true
+Demo Salt Lake City,Pizza,Chicken Pizza,LARGE,THIN,15.00,15.00,true
+Demo Salt Lake City,Pizza,Meat Pizza,MEDIUM,HAND_TOSSED,12.50,12.50,true
+Demo Salt Lake City,Pizza,Meat Pizza,LARGE,THIN,15.50,15.50,true
+Demo Salt Lake City,Pizza,Spicy Pizza,MEDIUM,HAND_TOSSED,13.00,13.00,true
+Demo Salt Lake City,Pizza,Spicy Pizza,LARGE,THIN,16.00,16.00,true
+Demo Salt Lake City,Sides,Bread Bites,REGULAR,NOT_APPLICABLE,6.00,6.00,true
+Demo Salt Lake City,Sides,Garlic Twists,REGULAR,NOT_APPLICABLE,6.00,6.00,true
+Demo Salt Lake City,Drinks,Cola,BOTTLE_20OZ,NOT_APPLICABLE,3.00,3.00,true
+Demo Salt Lake City,Drinks,Lemon Soda,BOTTLE_20OZ,NOT_APPLICABLE,3.00,3.00,true
+Demo Salt Lake City,Desserts,Brownie,REGULAR,NOT_APPLICABLE,6.00,6.00,true
+Demo Salt Lake City,Desserts,Cinnamon Twists,REGULAR,NOT_APPLICABLE,6.00,6.00,true
+Demo Murray,Pizza,Cheese Pizza,MEDIUM,HAND_TOSSED,10.50,10.75,true
+Demo Murray,Pizza,Cheese Pizza,LARGE,THIN,13.50,13.75,true
+Demo Murray,Pizza,Pepperoni Pizza,MEDIUM,HAND_TOSSED,11.00,11.25,true
+Demo Murray,Pizza,Pepperoni Pizza,LARGE,THIN,14.00,14.25,true
+Demo Murray,Pizza,Vegetable Pizza,MEDIUM,HAND_TOSSED,11.50,11.75,true
+Demo Murray,Pizza,Vegetable Pizza,LARGE,THIN,14.50,14.75,true
+Demo Murray,Pizza,Chicken Pizza,MEDIUM,HAND_TOSSED,12.00,12.25,true
+Demo Murray,Pizza,Chicken Pizza,LARGE,THIN,15.00,15.25,true
+Demo Murray,Pizza,Meat Pizza,MEDIUM,HAND_TOSSED,12.50,12.75,true
+Demo Murray,Pizza,Meat Pizza,LARGE,THIN,15.50,15.75,true
+Demo Murray,Pizza,Spicy Pizza,MEDIUM,HAND_TOSSED,13.00,13.25,true
+Demo Murray,Pizza,Spicy Pizza,LARGE,THIN,16.00,16.25,true
+Demo Murray,Sides,Bread Bites,REGULAR,NOT_APPLICABLE,6.00,6.25,true
+Demo Murray,Sides,Garlic Twists,REGULAR,NOT_APPLICABLE,6.00,6.25,true
+Demo Murray,Drinks,Cola,BOTTLE_20OZ,NOT_APPLICABLE,3.00,3.25,true
+Demo Murray,Drinks,Lemon Soda,BOTTLE_20OZ,NOT_APPLICABLE,3.00,3.25,true
+Demo Murray,Desserts,Brownie,REGULAR,NOT_APPLICABLE,6.00,6.25,true
+Demo Murray,Desserts,Cinnamon Twists,REGULAR,NOT_APPLICABLE,6.00,6.25,true
+Demo Provo,Pizza,Cheese Pizza,MEDIUM,HAND_TOSSED,10.50,11.00,true
+Demo Provo,Pizza,Cheese Pizza,LARGE,THIN,13.50,14.00,true
+Demo Provo,Pizza,Pepperoni Pizza,MEDIUM,HAND_TOSSED,11.00,11.50,true
+Demo Provo,Pizza,Pepperoni Pizza,LARGE,THIN,14.00,14.50,true
+Demo Provo,Pizza,Vegetable Pizza,MEDIUM,HAND_TOSSED,11.50,12.00,true
+Demo Provo,Pizza,Vegetable Pizza,LARGE,THIN,14.50,15.00,true
+Demo Provo,Pizza,Chicken Pizza,MEDIUM,HAND_TOSSED,12.00,12.50,true
+Demo Provo,Pizza,Chicken Pizza,LARGE,THIN,15.00,15.50,true
+Demo Provo,Pizza,Meat Pizza,MEDIUM,HAND_TOSSED,12.50,13.00,true
+Demo Provo,Pizza,Meat Pizza,LARGE,THIN,15.50,16.00,true
+Demo Provo,Pizza,Spicy Pizza,MEDIUM,HAND_TOSSED,13.00,13.50,true
+Demo Provo,Pizza,Spicy Pizza,LARGE,THIN,16.00,16.50,true
+Demo Provo,Sides,Bread Bites,REGULAR,NOT_APPLICABLE,6.00,6.50,true
+Demo Provo,Sides,Garlic Twists,REGULAR,NOT_APPLICABLE,6.00,6.50,true
+Demo Provo,Drinks,Cola,BOTTLE_20OZ,NOT_APPLICABLE,3.00,3.50,true
+Demo Provo,Drinks,Lemon Soda,BOTTLE_20OZ,NOT_APPLICABLE,3.00,3.50,true
+Demo Provo,Desserts,Brownie,REGULAR,NOT_APPLICABLE,6.00,6.50,true
+Demo Provo,Desserts,Cinnamon Twists,REGULAR,NOT_APPLICABLE,6.00,6.50,false

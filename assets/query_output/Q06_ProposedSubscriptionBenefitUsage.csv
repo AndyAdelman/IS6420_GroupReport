@@ -1,0 +1,7 @@
+"plan_name","customer_id","first_name","status","listed_monthly_price","credits_used","credits_applied","monthly_credit_limit"
+Demo Meal Club Basic,1,Avery,ACTIVE,4.99,3,6.00,3
+Demo Meal Club Basic,2,Mateo,ACTIVE,4.99,3,6.00,3
+Demo Meal Club Basic,3,Jordan,ACTIVE,4.99,3,6.00,3
+Demo Meal Club Plus,4,  sam  ,ACTIVE,6.99,0,0,3
+Demo Meal Club Plus,5,Taylor,ACTIVE,6.99,3,9.00,3
+Demo Meal Club Plus,6,Morgan,CANCELED,6.99,2,6.00,3
