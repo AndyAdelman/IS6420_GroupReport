@@ -1265,7 +1265,7 @@ SELECT
 FROM address 
 GROUP BY customer_id,street,city,state,zip_code HAVING count(*)>1;
 
-SELECT store_id,store_name 
+SELECT store_id,store_name, phone
 FROM store 
 WHERE phone IS NULL;
 
