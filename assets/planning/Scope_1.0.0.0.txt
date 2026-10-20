@@ -1,0 +1,57 @@
+
+Project purpose:
+The project will model the customer-facing Domino’s online ordering process. The database will support selecting a store, browsing its menu, customizing products, submitting an order, making a payment, choosing pickup or delivery, and tracking order status.
+The database will include only the store information needed to support online ordering and fulfillment. It will not model Domino’s broader corporate or store-management operations.
+
+The process begins when a customer:
+Enters an address or location.
+Selects an available Domino’s store.
+Chooses pickup or delivery.
+Browses the store’s available menu.
+Process ending
+
+The process ends when:
+Payment is recorded.
+The order is fulfilled or cancelled.
+The final order status is recorded.
+Applicable loyalty activity is recorded.
+
+Included:
+Registered customers and guest orders
+Customer addresses
+Store selection
+Store-specific menus
+Menu categories and products
+Product sizes and variations
+Toppings, sauces, and other customizations
+Orders and order items
+Coupons and promotions
+Payments and payment status
+Pickup and delivery
+Order-status history
+Customer loyalty accounts and transactions
+Synthetic sample data
+Proposed pizza-subscription venture
+
+Excluded:
+Ingredient-level inventory
+Suppliers and distribution centers
+Employee scheduling and payroll
+Franchise accounting
+Detailed kitchen preparation
+Driver assignment and GPS tracking
+Corporate marketing systems
+Payment-card storage and processor internals
+Tax calculation rules
+Customer-service case management
+
+Assumptions:
+Each order is fulfilled by one store.
+An order may be associated with a registered customer or placed as a guest order.
+A customer may maintain multiple addresses.
+Available products, prices, and promotions may vary by store.
+An order contains one or more order items.
+Each order item represents a selected product variation and may have multiple customizations.
+An order uses either pickup or delivery.
+The system records payment results but does not store complete card information.
+All project data will be synthetic.
